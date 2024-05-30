@@ -1,0 +1,11 @@
+requests
+robotframework
+robotframework-jsonlibrary
+robotframework-pythonlibcore
+robotframework-requests
+robotframework-stringformat
+robotframework-seleniumlibrary
+selenium
+robotframework-debuglibrary
+robotframework-pabot
+robotframework-lint
